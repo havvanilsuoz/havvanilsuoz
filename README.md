@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello, I'm Nilsu 👋
+
+### 🧠 Data Scientist 
+
+Welcome to my GitHub! Here you’ll find some of my data science and machine learning projects.
+
+### 🔧 Technologies & Tools:
+- **Languages**: Python, R, SQL
+- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn
+- **Tools**: Jupyter, Git, Docker, Streamlit
 
 <!--
 **havvanilsuoz/havvanilsuoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+| 📊 Machine Learning Enthusiast | 🌍 Exploring AI Research
 -->
