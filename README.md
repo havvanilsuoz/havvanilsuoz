@@ -22,7 +22,7 @@ Jupyter | Git & GitHub | Docker | Streamlit | BigQuery | Airflow
 ### 📂 Featured Projects
 
 - **RiskCopilot**  
-  A graph-driven analytics framework for capital risk analysis using SQL, Dash, and pandas. Built to visualize risk decomposition, automate exploratory workflows, and support decision-making in financial risk pipelines.
+  A graph-driven analytics framework for capital risk analysis. Built to visualize risk decomposition, automate exploratory workflows, and support decision-making in financial risk pipelines.
 
 ---
 
